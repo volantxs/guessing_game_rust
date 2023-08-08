@@ -1,0 +1,11 @@
+C:\Users\ssbsa\Desktop\Rust\rust_programs\guessing_game\target\debug\deps\getrandom-8741529ff8eecc8c.rmeta: C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\lib.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\util.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error_impls.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\windows.rs
+
+C:\Users\ssbsa\Desktop\Rust\rust_programs\guessing_game\target\debug\deps\libgetrandom-8741529ff8eecc8c.rlib: C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\lib.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\util.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error_impls.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\windows.rs
+
+C:\Users\ssbsa\Desktop\Rust\rust_programs\guessing_game\target\debug\deps\getrandom-8741529ff8eecc8c.d: C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\lib.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\util.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error_impls.rs C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\windows.rs
+
+C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\lib.rs:
+C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error.rs:
+C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\util.rs:
+C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\error_impls.rs:
+C:\Users\ssbsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.8\src\windows.rs:
